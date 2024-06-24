@@ -30,4 +30,4 @@ Environmental Politics & Policy
 ------
 ### Yonsei University Graduate School of International Studies
 
-Modern History of Korea
+Modern History of Korea 
