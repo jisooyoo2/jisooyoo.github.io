@@ -26,7 +26,6 @@ American Indian Law & Politics
 
 Environmental Politics & Policy 
 
-## Graduate Teaching Assistant
 ------
 ### Yonsei University Graduate School of International Studies
 
