@@ -20,7 +20,7 @@ Global to Subnational: Actions for Climate Change ([Syllabus](/files/GLBL296_Syl
 
 Introduction to Political Theory [Ben Miller](https://pol.illinois.edu/directory/profile/bm50)
 
-Introduction to Political Science [Konstantinos Kourtikakis](https://pol.illinois.edu/directory/profile/kkourtik) & [Yujeong Yang]((https://pol.illinois.edu/directory/profile/yujeong)
+Introduction to Political Science [Konstantinos Kourtikakis](https://pol.illinois.edu/directory/profile/kkourtik) & [Yujeong Yang](https://pol.illinois.edu/directory/profile/yujeong)
 
 Interest Groups & Social Movements [Joseph Hinchliffe](https://pol.illinois.edu/directory/profile/jjhinch)
 
