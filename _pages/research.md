@@ -7,7 +7,7 @@ author_profile: true
 
 ## Dissertation (Book Project)
 ------
-# The State of Disastrous Climate Policies
+### The State of Disastrous Climate Policies
 What drives subnational governments to take independent actions to address climate change? While national governments have pursued international agreements like the Paris Agreement to combat climate change, many have struggled to enact sufficient domestic policies. This study shifts the focus from national-level responses to the actions of subnational governments—such as states, municipalities, and cities—as autonomous actors in the climate arena. Drawing on a bottom-up approach, it emphasizes the role of subnational governments not as mere audiences in a two-level game but as proactive entities crafting policies that reflect their own motivations and strategic interests.
 
 This dissertation explores the growing phenomenon of subnational governments independently addressing climate change and examines the factors that influence their policy choices. At the heart of the inquiry is a key research question: Why do some subnational governments take the initiative to combat climate change, particularly in the case of a near-public good like reducing carbon emissions? The study investigates the interplay between climate vulnerability—defined by exposure to weather-related disasters—and domestic factors such as renewable energy market size and political orientation, offering a nuanced understanding of subnational climate action.
