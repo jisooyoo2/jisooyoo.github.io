@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Political Science at the University of Illinois at Urbana-Champaign, focusing on international relations and comparative politics. Prior to joining the PhD program, I earned a Bachelor of Arts in international relations from the University of Washington at Seattle and a Master of Global Affairs & Policy from the Graduate School of International Studies at the Yonsei University. 
+I am a Ph.D. Candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign, focusing on international relations and comparative politics. Prior to joining the PhD program, I earned a Bachelor of Arts in international relations from the University of Washington at Seattle and a Master of Global Affairs & Policy from the Graduate School of International Studies at the Yonsei University. 
 
 My broad research interests include international cooperation, international political economy, and climate change politics. 
 
