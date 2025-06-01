@@ -1,6 +1,6 @@
 # main links links
 main:
-   - title: "Research"
+  - title: "Research"
     url: /research/  
 
   - title: "Teaching"
@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/resume.pdf
+    url: /files/Yoo_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
