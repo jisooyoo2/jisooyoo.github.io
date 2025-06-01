@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Instructor-of-Record
+## Independent Instructor
 ------
 ### University of Illinois Urbana-Champaign
 
@@ -18,17 +18,17 @@ Global to Subnational: Actions for Climate Change ([Syllabus](/files/GLBL296_Syl
 ------
 ### University of Illinois Urbana-Champaign 
 
-Introduction to Political Theory (Instructor: [Ben Miller](https://pol.illinois.edu/directory/profile/bm50))
+Introduction to Political Theory 
 
-Introduction to Political Science (Instructor: [Konstantinos Kourtikakis](https://pol.illinois.edu/directory/profile/kkourtik) & [Yujeong Yang](https://pol.illinois.edu/directory/profile/yujeong))
+Introduction to Political Science 
 
-Interest Groups & Social Movements (Instructor: [Joseph Hinchliffe](https://pol.illinois.edu/directory/profile/jjhinch))
+Interest Groups & Social Movements 
 
-American Indian Law & Politics (Instructor: [Bob Pahre](https://pol.illinois.edu/directory/profile/pahre))
+American Indian Law & Politics 
 
-Environmental Politics & Policy (Instructor: [Bob Pahre](https://pol.illinois.edu/directory/profile/pahre))
+Environmental Politics & Policy 
 
 ------
 ### Yonsei University Graduate School of International Studies
 
-Modern History of Korea (Instructor: [Jongryn Mo](https://gsis1.yonsei.ac.kr/main/faculty.asp?mid=n01_04&act=view&sOpt=A&idx=25))
+Modern History of Korea 
