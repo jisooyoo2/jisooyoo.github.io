@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Independent Instructor
+## Instructor of the Record
 ------
 ### University of Illinois Urbana-Champaign
 
